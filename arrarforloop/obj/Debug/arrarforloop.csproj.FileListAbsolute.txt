@@ -1,0 +1,6 @@
+C:\SCHOOLMANAGEMENT\arrarforloop\arrarforloop\bin\Debug\arrarforloop.exe.config
+C:\SCHOOLMANAGEMENT\arrarforloop\arrarforloop\bin\Debug\arrarforloop.exe
+C:\SCHOOLMANAGEMENT\arrarforloop\arrarforloop\bin\Debug\arrarforloop.pdb
+C:\SCHOOLMANAGEMENT\arrarforloop\arrarforloop\obj\Debug\arrarforloop.csprojResolveAssemblyReference.cache
+C:\SCHOOLMANAGEMENT\arrarforloop\arrarforloop\obj\Debug\arrarforloop.exe
+C:\SCHOOLMANAGEMENT\arrarforloop\arrarforloop\obj\Debug\arrarforloop.pdb
